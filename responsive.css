@@ -1,0 +1,41 @@
+@media (max-width: 360px) {
+    h1{
+        font-size: 2rem;
+        text-align: center;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    .navbar-nav{
+        align-items: center;
+        
+    }
+    .navbar{
+        background-color: black;
+    }
+    .nav-text{
+        color: white !important;
+    }
+
+    .about1,
+    .about2,
+    .about3{
+        text-align: justify;
+        font-size: 14px;
+    }
+    .about4{
+        font-size: 15px;
+    }
+    .blog{
+        padding: 1.5rem 0rem;
+    }
+    .send-img{
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
